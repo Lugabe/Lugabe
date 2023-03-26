@@ -1,7 +1,7 @@
 ### Olá, eu sou o Luis Gabriel!  É bom te ver por aqui! 👋
 
 - 🔭 Hoje trabalho dando aula de informatica para um curso técnico.
-- 🌱 Estudando Java, Spring Boot, Oracle, SOLID e Design Patterns
+- 🌱 Estudando Java, Spring Boot, JPA-HIBERNATE, SOLID e Design Patterns e -TDD
 - 🤔 Estou procurando o meu primeiro emprego na área como programador!
 - 📫 Contate-me no email: luis2014gbp@gmail.com
 - 😄 Pronouns: ele/dele
